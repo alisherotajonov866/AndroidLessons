@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="Android Studio java home" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/P0072_LayoutProp" />
+            <option value="$PROJECT_DIR$/P0081_ViewByID" />
+            <option value="$PROJECT_DIR$/P0091_OncCickButtons" />
+            <option value="$PROJECT_DIR$/P0101_Listener" />
+            <option value="$PROJECT_DIR$/P0102_ActivityListener" />
+            <option value="$PROJECT_DIR$/P0111_ResValues" />
+            <option value="$PROJECT_DIR$/P0121_LogAndMess" />
+            <option value="$PROJECT_DIR$/P0131_MenuSimple" />
+            <option value="$PROJECT_DIR$/P0141_MenuAdv" />
+            <option value="$PROJECT_DIR$/P0151_ContextMenu" />
+            <option value="$PROJECT_DIR$/P0161_DynamicLayout" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/p0031firstproject" />
+            <option value="$PROJECT_DIR$/p0041basicviews" />
+            <option value="$PROJECT_DIR$/p0051layoutfiles" />
+            <option value="$PROJECT_DIR$/p0061_layouts" />
+            <option value="$PROJECT_DIR$/p1801constraintlayoutintro" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

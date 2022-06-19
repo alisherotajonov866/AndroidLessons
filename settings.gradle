@@ -1,0 +1,32 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Android lessons"
+include ':app'
+include ':p0031firstproject'
+include ':p0041basicviews'
+include ':p1801constraintlayoutintro'
+include ':p0051layoutfiles'
+include ':p0061_layouts'
+include ':P0072_LayoutProp'
+include ':P0081_ViewByID'
+include ':P0091_OncCickButtons'
+include ':P0101_Listener'
+include ':P0102_ActivityListener'
+include ':P0111_ResValues'
+include ':P0121_LogAndMess'
+include ':P0131_MenuSimple'
+include ':P0141_MenuAdv'
+include ':P0151_ContextMenu'
+include ':P0161_DynamicLayout'
