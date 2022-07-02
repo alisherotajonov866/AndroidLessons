@@ -18,6 +18,8 @@
         <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/Androidlessons/P0151_ContextMenu/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/Androidlessons/P0161_DynamicLayout/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/Androidlessons/P0171_DynomicLayout2/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/Androidlessons/P0181_DynomicLayout3/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/Androidlessons/P0191_SimpleCalculator/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/Androidlessons/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/Androidlessons/p0031firstproject/src/main/res/layout/activity_main.xml" value="0.1" />
         <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/Androidlessons/p0041basicviews/src/main/res/layout/activity_main.xml" value="0.264" />
@@ -34,7 +36,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_17_PREVIEW" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
