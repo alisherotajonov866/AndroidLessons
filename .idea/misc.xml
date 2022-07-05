@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/AndroidLessons/P0211_TwoActivity/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/AndroidLessons/P0261_IntentFilter/src/main/res/layout/activity_date.xml" value="0.25" />
+        <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/AndroidLessons/P0261_IntentFilter/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/AndroidLessons/P0261_IntentFilter/src/main/res/layout/activity_time.xml" value="0.25" />
         <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/Androidlessons/P0072_LayoutProp/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/Androidlessons/P0072_LayoutProp/src/main/res/layout/grlayout.xml" value="0.25" />
         <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/Androidlessons/P0072_LayoutProp/src/main/res/layout/marginlayout.xml" value="0.25" />
@@ -41,7 +45,7 @@
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_16" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17_PREVIEW" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
