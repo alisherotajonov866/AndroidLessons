@@ -3,6 +3,7 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/AndroidLessons/P0111_ResValues/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/AndroidLessons/P0211_TwoActivity/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/AndroidLessons/P0261_IntentFilter/src/main/res/layout/activity_date.xml" value="0.25" />
         <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/AndroidLessons/P0261_IntentFilter/src/main/res/layout/activity_main.xml" value="0.25" />
@@ -13,6 +14,10 @@
         <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/AndroidLessons/P0281_IntentExtras/src/main/res/layout/activity_view.xml" value="0.25" />
         <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/AndroidLessons/P0291_SimpleActivityResult/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/AndroidLessons/P0291_SimpleActivityResult/src/main/res/layout/activity_name.xml" value="0.25" />
+        <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/AndroidLessons/P0301_ActivityResult/src/main/res/layout/activity_align.xml" value="0.2359375" />
+        <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/AndroidLessons/P0301_ActivityResult/src/main/res/layout/activity_color.xml" value="0.25" />
+        <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/AndroidLessons/P0301_ActivityResult/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/AndroidLessons/P031_SImpleIntents/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/Androidlessons/P0072_LayoutProp/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/Androidlessons/P0072_LayoutProp/src/main/res/layout/grlayout.xml" value="0.25" />
         <entry key="..\:/Alisher/Dasturlash/android/AndroidStudioProjects/Androidlessons/P0072_LayoutProp/src/main/res/layout/marginlayout.xml" value="0.25" />

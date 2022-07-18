@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         TextView tvBottom = (TextView) findViewById(R.id.tvBottom);
         Button btnBottom = (Button) findViewById(R.id.btnBottom);
 
+        // bu kod ishlamin duribdi no'chindir
         llBottom.setBackgroundResource(R.color.llBottomColor);
         tvBottom.setText(R.string.tvBottomText);
         btnBottom.setText(R.string.btnBottomText);

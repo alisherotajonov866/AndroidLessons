@@ -32,26 +32,27 @@
 
         </Button>
     </LinearLayout>
+
     <LinearLayout
-        android:layout_width="match_parent"
         android:id="@+id/llBottom"
-        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:layout_weight="1"
-        android:layout_height="match_parent">
+        android:orientation="vertical">
+
         <TextView
-            android:text="TextView"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_gravity="center_horizontal"
             android:id="@+id/tvBottom"
-            android:layout_marginTop="30dp">
-        </TextView>
-        <Button
-            android:text="Button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:id="@+id/btnBottom">
-        </Button>
+            android:layout_marginTop="30dp"
+            android:text="TextView"></TextView>
+
+        <Button
+            android:id="@+id/btnBottom"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:text="Button"></Button>
     </LinearLayout>
 </LinearLayout>
