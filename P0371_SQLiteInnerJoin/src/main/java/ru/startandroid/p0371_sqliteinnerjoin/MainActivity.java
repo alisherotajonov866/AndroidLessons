@@ -31,7 +31,8 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         DBHelper dbh = new DBHelper(this) ;// Malumotlar bazasini boshqarish uchun DBHelper classidan obyekt oldik
-        SQLiteDatabase db = dbh.getWritableDatabase() ;// dbh obyekti orqali bazaga ulanildi
+        // Bazada biror narsa yaratmoqchi bo'lsak onCreate usulining 'db' o'zgaruchisiga qiymat yuklatishimiz zarur
+        SQLiteDatabase db = dbh.getWritableDatabase() ; // dbh obyekti orqali bazaga ulanildi
 
         Cursor c ;
 
