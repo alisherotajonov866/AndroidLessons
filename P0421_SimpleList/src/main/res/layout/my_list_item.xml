@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- rangi, shrift o'lchami, matnni tekislash va to'ldirish bilan - TextView  yaratildi-->
+<!--Bu xml fayl agar biz tizimning o'zini item.xml fayllarinidan qoniqmaganamizda kerak bo'ladi-->
+<TextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/textView1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal"
+    android:padding="5dp"
+    android:text="TextView"
+    android:textColor="#00FF00"
+    android:textSize="24sp">
+</TextView>

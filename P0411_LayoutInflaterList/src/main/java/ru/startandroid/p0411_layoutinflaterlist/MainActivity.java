@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
     String[] position = { "Программер", "Бухгалтер", "Программер", "Программер", "Бухгалтер", "Директор", "Программер", "Охранник" };
     int salary[] = { 13000, 10000, 13000, 13000, 10000, 15000, 13000, 8000 };
 
+    // bizga malumotlar zebra bo'lib ko'rinishi uchun foydalanildi
     int [] colors = new int[2] ;
 
     @Override

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SimpleListChoise</string>
+
+    <!-- Ismlar massivini mainactivity da olib yurmasslik uchun,uni shu yorga yozish qulay -->
+    <string-array name="names"> <!--xml faylda String array shunday elon qilinadi-->
+
+        <item>Иван</item> <!--xml dagi String array ning elementlari-->
+        <item>Марья</item>
+        <item>Петр</item>
+        <item>Антон</item>
+        <item>Даша</item>
+        <item>Борис</item>
+        <item>Костя</item>
+        <item>Игорь</item>
+        <item>Анна</item>
+        <item>Денис</item>
+        <item>Вадим</item>
+        <item>Ольга</item>
+        <item>Сергей</item>
+    </string-array>
+
+</resources>
