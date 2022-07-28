@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical">
+    <!--YODIMDA QO'YISHIM GARAK! ListView ham ScrollViewga o'hshab ekranni gorizontal qilganda elementlarni pastdan yuqoriga ko'tarish xususiyatiga ega akan-->
+    <!--Barcha viewlarda shunda xususiyat bor o'hshidi o'zi-->
+    <ListView
+        android:id="@+id/lvMain"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    </ListView>
+</LinearLayout>
